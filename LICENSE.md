@@ -8,6 +8,7 @@ The source files in this repository were borrowed from the following open-source
 * Font Awesome - [github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 * Electron - [github.com/electron/electron](https://github.com/electron/electron)
 * Azure Quickstart Templates - [github.com/Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
+* Paket - [github.com/fsprojects/Paket](https://github.com/fsprojects/Paket)
 
 To review the usage conditions of these files, please refer to the original repositories.
 
